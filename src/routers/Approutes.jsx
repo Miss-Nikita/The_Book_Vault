@@ -1,7 +1,7 @@
 import React from 'react'
 import { Route, Routes } from 'react-router-dom'
 import Layout from '../components/home/Layout'
-import DetailLayout from '../components/Detail/DetailLayout'
+import DetailLayout from '../components/Details/DetailsLayout'
 import SearchLayout from '../components/Search/SearchLayout'
 
 const Approutes = () => {
