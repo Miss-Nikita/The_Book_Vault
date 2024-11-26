@@ -13,8 +13,8 @@ const Pageination = () => {
     
 
   return (
-    <div className='w-full py-10 '>
-        <button onClick={savePageValue} className='px-5 py-3 bg-blue-500 font-semibold text-white'>Next</button>
+    <div className='w-full py-10 flex justify-center items-center'>
+        <button onClick={savePageValue} className='px-7 py-3 rounded mb-20 mt-10 bg-blue-500 font-semibold text-white'>Next</button>
     </div>
   )
 }
